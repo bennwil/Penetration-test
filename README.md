@@ -1,24 +1,27 @@
 # Penetration-test
 
 ## Objective
-Evaluate the exploitability of vulnerabilities found in the previous assessment
-Simulate real-world attack scenarios to determine risk impact and potential consequences
+Evaluate the exploitability of vulnerabilities found on a website.
+Simulate real-world attack scenarios to determine risk impact and potential consequences.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- General flow of a penetration test.
+- Configure a firewall.
+- How to navigate Metasploit interface.
+- Scan with Nmap to populate a database.
+- Scan for vulnerabilities with WPScan.
+- Exploit a detected vulnerability.
+- Weaponize an exploit to pop a shell.  
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Kali Linux.
+- Metasploit.
+- NMap.
+- WPScan.
+- PfSense
+  
 
 ## Steps
 In this project we will perform a Penetration Test on a website. The following is the scope for the website: 0x2A Security: Penetration Test 📌
