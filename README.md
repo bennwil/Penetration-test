@@ -2,7 +2,7 @@
 
 ## Objective
 Evaluate the exploitability of vulnerabilities found on a website.
-Simulate real-world attack scenarios to determine risk impact and potential consequences.
+Simulate real-world attack scenarios to determine risk impact and potential consequences to an organization.
 
 ### Skills Learned
 
